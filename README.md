@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Atomic-Germ
+- Sometimes I code. Sometimes I make music.
+- 🌱 I’m currently learning swift
+- 💞️ I’m looking to collaborate on something simple
+- 📫 How to reach me 02-germane-atomic@icloud.com
