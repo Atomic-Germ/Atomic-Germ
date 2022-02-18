@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Atomic-Germ
-- Sometimes I code. Sometimes I make music.
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on something simple
-- 📫 How to reach me 02-germane-atomic@icloud.com
+# 👋 Hi, Sometimes I code. 
+
+![](https://github-readme-stats.vercel.app/api?username=atomic-germ&show_icons=true)
+
+## 🎧 Sometimes I [produce music.](https://github-readme-stats.vercel.app/api?username=atomic-germ&show_icons=true)
